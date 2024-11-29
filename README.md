@@ -3,9 +3,9 @@
 
 - I'm currently working on an inclusive courier web application, working with API's and multiple Databases. I am also working on a POS application for windows in .NET framework while utilizing WPF. 
 
-- How to reach me: Email -> cshah1@ualberta.ca, Discord -> rayu_.
+- How to reach me: Email -> cshah1@ualberta.ca
 
-- I am interested in backend development, and database analysis.
+- I am interested in low level programming, AI, and Algorithms.
 
 - Fun fact: I like working out and gaming
 <!--
